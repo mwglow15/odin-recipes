@@ -1,0 +1,26 @@
+.header {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 26px;
+    background-color: aqua;
+}
+
+.recipes {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: lightgreen;
+    border: 3px solid red;
+    border-radius: 15px;
+}
+
+.parm {
+    color: orange;
+}
+
+.teriyaki {
+    color: red;
+}
+
+.steak {
+    color: purple;
+}
